@@ -6,9 +6,9 @@
 enum keyboard_layers
 {
   KL_BASE = 0,    // Base layer.
-  KL_SYMBOL,      // Symbol layer.
-  KL_NAVIGATION,  // Navigation layer.
   KL_UNICODE,     // Unicode layer.
+  KL_NAVIGATION,  // Navigation layer.
+  KL_SYMBOL,      // Symbol layer.
 };
 
 // Custom keycodes used by this keymap.
