@@ -1,5 +1,5 @@
 # ErgoDox EZ joseasoler
 
-Work in progress keymap for the ErgoDox EZ. It is designed to be used with an Spanish (ES) keyboard layout. It does not provide support for RGB lighting.
+Work in progress keymap for the ErgoDox EZ. Designed to be used with an Spanish (ES) keyboard layout. It does not provide support for RGB lighting or the Oryx Configurator.
 
-http://www.keyboard-layout-editor.com/#/gists/5b8d085b71e918923f6ec6198673ee23
+http://www.keyboard-layout-editor.com/#/gists/dd6ee70ea38cde6bbe769e719c923f3f
